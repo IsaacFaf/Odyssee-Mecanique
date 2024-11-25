@@ -8,10 +8,7 @@
 
 
 # Moodboard
-
-# Jeux
-
-L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque visiteur pourra jouer grâce à notre installation unique. Nous souhaitons recréer une ambiance qui ne semblerait pas déplacée dans une salle d’arcade d’il y a 30 ans, c’est pourquoi la nostalgie sera un élément clé. Nous recréerons des jeux similaires aux classiques tels que Space Invaders et Super Mario, en les développant à l’aide d’outils web comme Java, afin de capturer l’expérience de jeu typique d’une arcade, tout en intégrant les avancées technologiques de notre époque.
+Pour créer une ambiance rétro, nous allons décorer non seulement notre design web avec ces bandes colorées et circulaires emblématiques des années 60 et 70, mais également nos éléments physiques, comme la table des contrôleurs. Ces motifs apporteront une touche vintage cohérente et immersive, reliant harmonieusement le monde numérique et l’espace physique.
 
 <table>
   <tr>
@@ -24,6 +21,12 @@ L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque v
 <td><img src="retro-vintage-70s-style-stripes-260nw-2272609063.webp" ></td>
   </tr>
 </table>
+
+# Jeux
+
+L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque visiteur pourra jouer grâce à notre installation unique. Nous souhaitons recréer une ambiance qui ne semblerait pas déplacée dans une salle d’arcade d’il y a 30 ans, c’est pourquoi la nostalgie sera un élément clé. Nous recréerons des jeux similaires aux classiques tels que Space Invaders et Super Mario, en les développant à l’aide d’outils web comme Java, afin de capturer l’expérience de jeu typique d’une arcade, tout en intégrant les avancées technologiques de notre époque.
+
+
 
 
 
