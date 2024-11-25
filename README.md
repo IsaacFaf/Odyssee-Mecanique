@@ -15,7 +15,7 @@ L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque v
 
 <table>
   <tr>
-    <td><img src="images for water/retro-lines-background-colorful-60s-and-70s-circular-stripes-style-illustration-design-vector.jpg" ></td>
+    <td><img src="retro-lines-background-colorful-60s-and-70s-circular-stripes-style-illustration-design-vector.jpg" ></td>
   </tr>
 </table>
 
