@@ -1,4 +1,15 @@
-# Odyssee Mecanique
+# Concept
+- recréé des mini-jeux en s'inspirant de jeux nostalgique notamment Space Invaders. Ça aurait un design et des capacitées propres à notre création, tout en gardant l'idéologie du jeu nostalgique de base.
+
+- L'originalité du projet proviens de la façons d'y jouer. Nous entrainerons les gens a jouer à ces minijeux autrement que avec leurs pouces et assis sur une chaise confortable. Ils devront mériter leurs scores par un certain exercice physique! Ils devront bouger un trigger de gauche a droite plutôt qu'un joystick. 
+
+# Descriptions
+
+
+# Moodboard
+
+
+# Odyssee Mecanique IDÉE
  
 Bloc note PROJET FINAL gestion projet Multimédia
 
