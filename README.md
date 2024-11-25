@@ -13,6 +13,9 @@
 
 L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque visiteur pourra jouer grâce à notre installation unique. Nous souhaitons recréer une ambiance qui ne semblerait pas déplacée dans une salle d’arcade d’il y a 30 ans, c’est pourquoi la nostalgie sera un élément clé. Nous recréerons des jeux similaires aux classiques tels que Space Invaders et Super Mario, en les développant à l’aide d’outils web comme Java, afin de capturer l’expérience de jeu typique d’une arcade, tout en intégrant les avancées technologiques de notre époque.
 
+git add images/retro-lines-background-colorful-60s-and-70s-circular-stripes-style-illustration-design-vector.jpg
+
+
 
 # Odyssee Mecanique IDÉE
  
