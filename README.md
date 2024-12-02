@@ -7,17 +7,40 @@
 
 
 
+
 # Moodboard
+
 Pour créer une ambiance rétro, nous allons décorer non seulement notre design web avec ces bandes colorées et circulaires emblématiques des années 60 et 70, mais également nos éléments physiques, comme la table des contrôleurs. Ces motifs apporteront une touche vintage cohérente et immersive, reliant harmonieusement le monde numérique et l’espace physique.
 
+---
+
+## Container 1
 <table>
   <tr>
-    <td><img src="./3.jpg" alt="Retro Lines Background" width="400"></td>
+    <td><img src="./2.jpg" alt="Retro Arcade 1" width="300"></td>
+    <td><img src="./4.webp" alt="Retro Design 2" width="300"></td>
+    <td><img src="./7.avif" alt="Diagonal Retro Stripes" width="300"></td>
+    <td><img src="./8.webp" alt="Accent Retro Design" width="300"></td>
   </tr>
 </table>
+
+---
+
+## Container 2
 <table>
   <tr>
-    <td><img src="./4.webp" alt="Retro Vintage 70s Style Stripes" width="400"></td>
+    <td><img src="./1.jpg" alt="Retro Arcade 2" width="300"></td>
+    <td><img src="./2.jpg" alt="Retro Arcade 1" width="300"></td>
+  </tr>
+</table>
+
+---
+
+## Container 3
+<table>
+  <tr>
+    <td><img src="./5.jpg" alt="Space Invaders 1" width="300"></td>
+    <td><img src="./6.png" alt="Space Invaders 2" width="300"></td>
   </tr>
 </table>
 
