@@ -19,7 +19,7 @@ Pour créer une ambiance rétro, nous allons décorer non seulement notre design
   <tr>
     <td><img src="./3.jpg" alt="Retro Arcade 1" width="300"></td>
     <td><img src="./4.webp" alt="Retro Design 2" width="300"></td> 
-    <td><img src="./9.webp" alt="Retro Design 9" width="300"></td>
+    <td><img src="./9.jpg" alt="Retro Design 9" width="300"></td>
   </tr>
   <tr>
     <td><img src="./7.avif" alt="Diagonal Retro Stripes" width="300"></td>
