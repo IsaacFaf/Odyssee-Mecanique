@@ -31,7 +31,8 @@ Dans ce projet, nous allons recréer une ambiance inspirée des arcades des ann�
 
 ---
 
-## Container 2
+## Container 2: Look of the Physical Elements
+Pour les éléments physiques, nous souhaitons recréer un look qui ressemble aux vieilles machines d'arcade rétro. Ces éléments seront conçus pour rappeler l'esthétique classique des années 80, avec des formes distinctives, des couleurs vives, et un éclairage qui évoque l'expérience authentique des arcades.
 <table>
   <tr>
     <td><img src="./1.jpg" alt="Retro Arcade 2" width="300"></td>
