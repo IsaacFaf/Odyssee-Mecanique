@@ -12,15 +12,15 @@ Pour créer une ambiance rétro, nous allons décorer non seulement notre design
 
 <table>
   <tr>
-    <td><img src="retro-lines-background-colorful-60s-and-70s-circular-stripes-style-illustration-design-vector.jpg" >
-
+    <td><img src="./3.jpg" alt="Retro Lines Background" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-<td><img src="retro-vintage-70s-style-stripes-260nw-2272609063.webp" ></td>
+    <td><img src="./4.webp" alt="Retro Vintage 70s Style Stripes" width="400"></td>
   </tr>
 </table>
+
 
 # Jeux
 
