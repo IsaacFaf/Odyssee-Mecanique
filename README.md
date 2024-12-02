@@ -14,7 +14,8 @@ Pour créer une ambiance rétro, nous allons décorer non seulement notre design
 
 ---
 
-## Container 1
+## Container 1: Ambiance of 70s and 80s Arcades
+Dans ce projet, nous allons recréer une ambiance inspirée des arcades des années 70 et 80. Les bandes colorées seront utilisées comme élément central pour décorer aussi bien les éléments physiques que le design web, apportant une touche rétro immersive et unifiée.
 <table>
   <tr>
     <td><img src="./3.jpg" alt="Retro Arcade 1" width="300"></td>
