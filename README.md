@@ -100,8 +100,8 @@ graph TD;
 # Simulation
 <table>
   <tr>
-    <td><img src="./simulation.PNG" alt="Visual Studio Code Logo" width="300"></td>
-    <td><img src="./sim2.PNG" alt="Phaser Tool Logo" width="300"></td>
+    <td><img src="./simulation.png" alt="Visual Studio Code Logo" width="300"></td>
+    <td><img src="./sim2.png" alt="Phaser Tool Logo" width="300"></td>
   </tr>
 </table>
 ![visuel](simulation.png)
