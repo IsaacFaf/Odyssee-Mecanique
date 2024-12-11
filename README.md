@@ -98,8 +98,14 @@ graph TD;
     H-->|Tirer pour recommencer| A;
 ```
 # Simulation
-![visuel](simulation.PNG)
-![visuel](/sim2.PNG)
+<table>
+  <tr>
+    <td><img src="./simulation.PNG" alt="Visual Studio Code Logo" width="300"></td>
+    <td><img src="./sim2.PNG" alt="Phaser Tool Logo" width="300"></td>
+  </tr>
+</table>
+
+
 # Synoptique
 ![visuel](shéma_installation.png)
 shéma_installation.png
