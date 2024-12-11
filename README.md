@@ -258,8 +258,7 @@ Le TriggerStick aura un feutre dessus pour éviter tout blessure au main d'un co
     Roles:
     Développeur jeu vidéo
 
-    Motivations personnelles:
-  Ce qui me motive dans ce projet est le fait d'être responsable du développement web. En sachant que c'est dans ce domaine que je veux travailler plus tard, ce serait une bonne pratique pour moi de réaliser quelque chose de satisfaisant à la fin du projet.
+    Motivations personnelles:Ce qui me motive dans ce projet est le fait d'être responsable du développement web. En sachant que c'est dans ce domaine que je veux travailler plus tard, ce serait une bonne pratique pour moi de réaliser quelque chose de satisfaisant à la fin du projet.
 
 
 # Motivations de l'équipe
