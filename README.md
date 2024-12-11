@@ -57,8 +57,8 @@ Pour recréer notre clone de *Space Invaders* aussi fidèlement que possible, no
 
 <table>
   <tr>
-    <td><img src="./3.jpg" alt="Visual Studio Code Logo" width="300"></td>
-    <td><img src="./8.webp" alt="Phaser Tool Logo" width="300"></td>
+    <td><img src="./web.jpg" alt="Visual Studio Code Logo" width="300"></td>
+    <td><img src="./phaser.webp" alt="Phaser Tool Logo" width="300"></td>
   </tr>
 </table>
 
