@@ -75,7 +75,13 @@ Pour recréer notre clone de *Space Invaders* aussi fidèlement que possible, no
 </table>
 
 
+# Inspirations sonores
 
+
+[Musique](https://www.youtube.com/watch?v=rZjBLC8e2Es)
+
+
+[Sound effects](https://www.youtube.com/watch?v=LOTjhFPnM90&list=PLOK_EJ2O31LrE4z3LWU2pHZAtuk22WaEz)
 
 # Scénarimage
 ```mermaid
