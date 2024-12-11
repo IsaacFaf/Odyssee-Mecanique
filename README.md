@@ -109,7 +109,11 @@ graph TD;
 ![visuel](shéma_installation.png)
 shéma_installation.png
 # Branchement
-![branchement](medias/branchement.png)
+<table>
+  <tr>
+    <td><img src="./simulation.png" alt="Visual Studio Code Logo" width="800"></td>
+  </tr>
+</table>
 # Logiciels/Réseaux
 ### Logiciels:
 * VsCode
