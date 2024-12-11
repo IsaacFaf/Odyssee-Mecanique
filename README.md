@@ -104,6 +104,8 @@ graph TD;
     <td><img src="./sim2.PNG" alt="Phaser Tool Logo" width="300"></td>
   </tr>
 </table>
+![visuel](simulation.png)
+![visuel](sim2.png)
 
 
 # Synoptique
