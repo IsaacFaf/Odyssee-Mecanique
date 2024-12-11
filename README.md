@@ -14,7 +14,7 @@ Pour créer une ambiance rétro, nous allons décorer non seulement notre design
 
 ---
 
-## Container 1: Ambiance of 70s and 80s Arcades
+## Container 1: Ambiance des Arcades des années 70 et 80
 Dans ce projet, nous allons recréer une ambiance inspirée des arcades des années 70 et 80. Les bandes colorées seront utilisées comme élément central pour décorer aussi bien les éléments physiques que le design web, apportant une touche rétro immersive et unifiée.
 <table>
   <tr>
@@ -31,7 +31,7 @@ Dans ce projet, nous allons recréer une ambiance inspirée des arcades des ann�
 
 ---
 
-## Container 2: Look of the Physical Elements
+## Container 2: Aspect des éléments physiques
 Pour les éléments physiques, nous souhaitons recréer un look qui ressemble aux vieilles machines d'arcade rétro. Ces éléments seront conçus pour rappeler l'esthétique classique des années 80, avec des formes distinctives, des couleurs vives, et un éclairage qui évoque l'expérience authentique des arcades.
 <table>
   <tr>
@@ -42,7 +42,7 @@ Pour les éléments physiques, nous souhaitons recréer un look qui ressemble au
 
 ---
 
-## Container 3: Space Invaders Clone
+## Container 3: Clone de Space Invaders
 Pour le jeu que nous allons créer, nous nous inspirons du célèbre jeu vidéo *Space Invaders*. Nous avons l'intention de recréer son style rétro pixelisé, fidèle à l'original, tout en y ajoutant une touche moderne pour une expérience nostalgique mais captivante. Ce projet sera un hommage au jeu original, célébrant son esthétique iconique et son gameplay simple mais addictif.
 <table>
   <tr>
