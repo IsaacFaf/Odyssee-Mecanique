@@ -1,9 +1,9 @@
 # Concept
-- recréé des mini-jeux en s'inspirant de jeux nostalgique notamment Space Invaders. Ça aurait un design et des capacitées propres à notre création, tout en gardant l'idéologie du jeu nostalgique de base.
+Odyssée Mécanique revisite les classiques des jeux vidéo des années 70 et 80 en introduisant un concept innovant qui allie nostalgie et activité physique. Inspiré par des jeux iconiques comme Space Invaders, nous recréons des mini-jeux avec des mécaniques de gameplay adaptées à l'époque mais intégrant une dimension active. L’objectif n’est pas seulement de battre des scores, mais de faire en sorte que les joueurs s’entraînent physiquement pour mériter leurs performances.
 
-- L'originalité du projet proviens de la façons d'y jouer. Nous entrainerons les gens a jouer à ces minijeux autrement que avec leurs pouces et assis sur une chaise confortable. Ils devront mériter leurs scores par un certain exercice physique! Ils devront bouger un trigger de gauche a droite plutôt qu'un joystick. 
+Au lieu de jouer confortablement assis avec un joystick, les joueurs interagiront physiquement avec un "trigger" qu'ils devront déplacer de gauche à droite, imitant le mouvement de jeu classique de manière dynamique. Ce trigger peut être un capteur ou un dispositif à manœuvrer avec le corps, activant une série d'animations ou de mécaniques de jeu. Par exemple, pour Space Invaders, le joueur devra se déplacer sur une plateforme et "tirer" en bougeant son corps de manière précise, simulant l’action d’abattre les vaisseaux ennemis.
 
-# Descriptions
+
 
 
 
@@ -75,7 +75,8 @@ graph TD;
     H-->|Tirer pour recommencer| A;
 ```
 # Simulation
-![visuel](medias/scenarimage.PNG)
+![visuel](simulation.PNG)
+![visuel](/sim2.PNG)
 # Synoptique
 ```mermaid
 graph TD;
@@ -233,23 +234,123 @@ L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque v
 </table>
  
 
+# Matrice de risque
+## Produit minimum viable
+Le produit minimum viable de notre projet consistera d’au moins avoir un jeu présent avec Visuel, Fonctionnalité de l’interactivité du « triggerstick » et Possibilité d’amusement avec un minimum de problème possible. Notre principal objectif de produit minimum viable consisterait d’avoir 1 jeu parfait.
+
+    S1 :	Work in progress – Visuel & Commencé code Jeu
+    S2 :	Setup code et fonctionnalité OSC arduino. 
+    S3 :	Installation de la salle
+    S4 :	Installation de la table avec ses fonctionnalités
+    S5 :	Finir ses fonctionnalités tables. & Si jeu 1 fini, on fait jeu 2
+    S6 :	Test du jeu et correction du bug
+    S7 :	Correction des aspects mineur & majeur
+    S8 :	Correction des aspects mineur & majeur
+
+    S# = Quel semaine.
+## Matrice de risque
+  ![Matrice](image.png)
+## Description des risques
+### R1 : Manque de temps pour compléter le jeu
+    Probabilité : 2
+    Important : 5
+    Description :
+    Le manque de temps peut nuire à l'achèvement du jeu dans les délais prévus. Cela pourrait 
+    entraîner des fonctionnalités incomplètes, des tests non réalisés, ou une qualité globale 
+    inférieure. Le temps du projet étant en théorie très suffisant nous voyons ce risque moyennement 
+    probable, mais si ce risque s’avérait réalité, nous aurions de très gros problèmes.
+
+### R2 : Risque de bris de matériel
+    Probabilité : 3
+    Important : 5
+    Description :
+    Le matériel peut se casser ou mal fonctionner, que ce soit la table, le "triggerstick", ou tout 
+    autre élément physique impliqué dans le projet. Le risque est d'autant plus grand si certains 
+    composants sont manipulés de manière excessive. En ayant ce risque en tête, nous allons faire en 
+    sorte que notre installation soit très solide donc nous pensons que les probabilités sont minces 
+    mais les répercussions seraient importantes.
+
+### R3 : Matériel fonctionne pas/mal avec Arduino (bouton et code)
+    Probabilité : 1
+    Important : 4
+    Description :
+    Les composants matériels (comme les boutons et les capteurs) ne communiquent pas correctement
+    avec la plateforme Arduino. Cela peut provoquer des dysfonctionnements dans l'interaction ou 
+    rendre certaines fonctions inaccessibles. En faisant les bonnes recherches, le matériel dont nous 
+    disposerons sera fonctionnel sans aucun doute. S’ils venaient à ne pas fonctionner, ça ne serait 
+    pas si grave, nous n’aurions qu’à changer la manière dont le joueur interactiverait avec le ”
+    triggerstick”.
+
+### R4 : Risque de blessure dans l’interactivité
+    Probabilité : 1
+    Important : 6
+    Description :
+    Étant donné que le jeu nécessite un déplacement physique pour interagir, il y a un risque que 
+    utilisateur se blesse, soit par une mauvaise posture, une chute, ou un geste mal coordonné. Nous 
+    allons faire notre maximum pour rendre notre jeu sécuritaire donc nous pensons que les chances 
+    qu’une blessure ait lieu sont faibles. Malgré ça, le risque est des plus important.
+
+### R5 : Bugs
+    Probabilité : 3
+    Important : 2
+    Description :
+    Des erreurs dans le code ou dans la mécanique du jeu peuvent provoquer des bugs, rendant le jeu
+    injouable ou imprévisible. Ces bugs peuvent affecter l’expérience utilisateur et l’interaction avec le jeu. Il y a des chances qu’il y ait des bugs et ça serait dommage, mais ce n’est pas si 
+    grave que ça.
+
+### R6 : Imperfection visuel
+    Probabilité : 2
+    Important : 1
+    Description :
+    Le rendu graphique du jeu pourrait ne pas être à la hauteur des attentes, soit à cause de la
+    conception des visuels, soit en raison de limitations techniques du matériel ou du logiciel. Il
+    est possible qu’il y ait une imperfection visuelle, mais il faut se rappeler que personne à part
+    nous allons le remarquer donc ce n’est pas grave.
+
+### R7 : Manquer de batterie dans le triggerstick
+    Probabilité : 4
+    Important : 1
+    Description : Le "triggerstick" utilise une batterie qui peut se décharger au cours d'une session 
+    de jeu, ce qui empêche les joueurs d'interagir avec le jeu si la batterie est vide. Le risque est 
+    très faible puisque même s’il n’y a plus de batterie nous allons tout simplement la changer.
+
+### R8 : Problème de récupération de données
+    Probabilité : 2
+    Important : 6
+    Description : Si le jeu enregistre les scores ou d'autres données utilisateur, des problèmes 
+    techniques peuvent survenir, empêchant la récupération ou l'affichage des résultats. Pour nous ce 
+    risque est probable et il est très grave, donc nous allons tout tester et re-tester de manière à 
+    s’assurer qu’il ne se manifeste pas.
 
 
-# Odyssee Mecanique IDÉE
+# Gestion Équipe
+
+    Isaac Fafard
+
+    Project manager
+    Développeur C# (Arduino & logistique)
+    Technicien en installation
+#
+    William Beauvais
+
+    Directeur Artistique
+    Responsable artistique
+    Technicien en installation
+#
+    Anton
+
+    Développeur jeu vidéo
+#
+    Dominic
+
+    Développeur jeu vidéo
+
+
+
+
+
+
  
-Bloc note PROJET FINAL gestion projet Multimédia
 
-	Barre de métal --> 4m => 2m30 plutôt
-	Collant sur la boîte --> William design et collant à imprimer au dimension de la boîte
-	Designer des néons pour l'idée artistique du projet => nostalgie & idéologie ancienne
-	Recréation artistique original => Space Invaders redesign
-	
-
-
-	Créé des sons (VCV Rack I guess)[Musique: Menu & Jeux individuelles]
-	Soundeffect (appui bouton & projectile touche ennemi & perte de vie)
-	Arduino (TOF programmation des distances avec les functions qui oublient les données abérrantes)
-	
-	
 	
 	https://isaacfaf.github.io/planification/#/ 
