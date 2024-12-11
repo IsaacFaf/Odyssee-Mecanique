@@ -95,45 +95,8 @@ graph TD;
 ![visuel](simulation.PNG)
 ![visuel](/sim2.PNG)
 # Synoptique
-```mermaid
-graph TD;
-    %% Définition du studio
-    subgraph Studio
-        Projecteur[Projecteur vidéo - Projection du jeu]
-       
-        subgraph Kiosque
-            CapteurMouvement1[Détecteur de mouvement M5Stack 1]
-            Levier[TriggerStick avec bouton Bluetooth]
-           
-           
-            CapteurMouvement2[Détecteur de mouvement M5Stack 2]
-        end
-       
-        Speakers[Hauts-parleurs stéréo]
-    end
-   
-    %% Définition du système de jeu
-    subgraph Systeme_Jeu
-        Ordinateur[Ordinateur avec Unity]
-        Arduino[Capter dans Arduino l'emplacement et le bouton]
-    end
-   
-    %% Connexions
-    CapteurMouvement1 -->|Envoie données de position ou TOF1| Arduino
-    Projecteur -->|Affiche le jeu| Ordinateur
-    Levier -->|Envoie signal du bouton| Arduino
-   
-   
-   
-    Arduino -->|Communication des capteurs et bouton| Ordinateur
-    CapteurMouvement2 -->|Envoie données de position ou TOF2| Arduino
-    Ordinateur -->|Position du joueur| Projecteur
-    Ordinateur -->|Gère l'audio stéréo| Speakers
-   
-    Speakers -->|---------
-     Son spatialisé selon emplacement| Studio
- 
-```
+![visuel](shéma_installation.png)
+shéma_installation.png
 # Branchement
 ![branchement](medias/branchement.png)
 # Logiciels/Réseaux
@@ -236,9 +199,61 @@ Le TriggerStick aura un feutre dessus pour éviter tout blessure au main d'un co
 ![Visualisation câblage](medias/visualisation.PNG)
 
  
+ eiwuagvoiewa
  
+# Gestion Équipe
 
- 
+# Distribution des responsabilité au sein de l'équipe et motivations individuelles
+
+#   
+    Isaac Fafard
+
+    Roles:
+    Project manager
+    Développeur C# (Arduino & logistique)
+    Technicien en installation
+
+    Motivations personnelles:
+
+    Je suis motivé de faire le projet final parceque j'ai depuis longtemps une passion pour les installations intéractives. Je vais aussi faire du Arduino, logiciel avec lequel j'ai une certaine facilité. Je suis motivé de faire ce projet qui reprend un jeu que j'affectionne et qui inspire le projet en majeure partie. 
+
+
+#
+    William Beauvais
+
+    Roles:
+    Directeur Artistique
+    Responsable artistique
+    Technicien en installation
+
+    Motivations personnelles:
+
+    Je suis très motivé pour ce projet puisque je suis responsable de faire absolument tous les visuels. Étant un futur designeur graphique, je peux enfin me consacrer à ma passion. Je compte créer des visuels en 2d à partir de Adobe Illustrator, mon logiciel préféré. J'ai très hâte de me lancer dans ce projet qui marquera d'une excellente manière la fin de mon parcours en Multimédia.
+
+    
+#
+    Anton
+
+    Roles:
+    Développeur jeu vidéo
+
+    Motivations personnelles:
+
+    Mes motivations personnelles pour ce projet sont de tester ma capacité à créer un jeu vidéo basé sur web/js, car j'espère que mes compétences se sont améliorées au cours des dernières sessions, ce projet permettra de tester mes capacités.
+    
+#
+    Dominic
+
+    Roles:
+    Développeur jeu vidéo
+
+    Motivations personnelles:
+  Ce qui me motive dans ce projet est le fait d'être responsable du développement web. En sachant que c'est dans ce domaine que je veux travailler plus tard, ce serait une bonne pratique pour moi de réaliser quelque chose de satisfaisant à la fin du projet.
+
+
+# Motivations de l'équipe
+
+    Nos sommes extrèmement motivé à nous lancer dans ce projet final qui reviendra sur nos multiples aprentissages dans la Technique d'Intégration Multimédia. Nous avons pour but de créer une expérience qui saura plaire aux visiteurs ainsi qu'à vous. Nous somme motivé à créer cette expérience de toute pièce. Pour la première fois, nous avons carte blanche alors ça nous motives à montrer ce que nous pouvons faire par nous même. De plus, nous avons séparé les tâches du projet en prenant compte de nos passions donc de cette manière, tout le monde est plus motivés.
 
 # Matrice de risque
 ## Produit minimum viable
@@ -328,36 +343,9 @@ Le produit minimum viable de notre projet consistera d’au moins avoir un jeu p
     risque est probable et il est très grave, donc nous allons tout tester et re-tester de manière à 
     s’assurer qu’il ne se manifeste pas.
 
+# Échéancier prochaine session
 
-# Gestion Équipe
-
-    Isaac Fafard
-
-    Project manager
-    Développeur C# (Arduino & logistique)
-    Technicien en installation
-#
-    William Beauvais
-
-    Directeur Artistique
-    Responsable artistique
-    Technicien en installation
-#
-    Anton
-
-    Développeur jeu vidéo
-#
-    Dominic
-
-    Développeur jeu vidéo
-
-
-
-
-
-# Médiagraphie
- 
-
+![Visualisation câblage](medias/echeancier.jpg)
 	
 https://isaacfaf.github.io/planification/#/ 
 https://wallpaperaccess.com/space-invaders
