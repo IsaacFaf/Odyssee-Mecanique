@@ -14,7 +14,7 @@ Pour créer une ambiance rétro, nous allons décorer non seulement notre design
 
 ---
 
-## Container 1: Ambiance des Arcades des années 70 et 80
+## 1: Ambiance des Arcades des années 70 et 80
 Dans ce projet, nous allons recréer une ambiance inspirée des arcades des années 70 et 80. Les bandes colorées seront utilisées comme élément central pour décorer aussi bien les éléments physiques que le design web, apportant une touche rétro immersive et unifiée.
 <table>
   <tr>
@@ -31,7 +31,7 @@ Dans ce projet, nous allons recréer une ambiance inspirée des arcades des ann�
 
 ---
 
-## Container 2: Aspect des éléments physiques
+## 2: Aspect des éléments physiques
 Pour les éléments physiques, nous souhaitons recréer un look qui ressemble aux vieilles machines d'arcade rétro. Ces éléments seront conçus pour rappeler l'esthétique classique des années 80, avec des formes distinctives, des couleurs vives, et un éclairage qui évoque l'expérience authentique des arcades.
 <table>
   <tr>
@@ -42,7 +42,7 @@ Pour les éléments physiques, nous souhaitons recréer un look qui ressemble au
 
 ---
 
-## Container 3: Clone de Space Invaders
+## 3: Clone de Space Invaders
 Pour le jeu que nous allons créer, nous nous inspirons du célèbre jeu vidéo *Space Invaders*. Nous avons l'intention de recréer son style rétro pixelisé, fidèle à l'original, tout en y ajoutant une touche moderne pour une expérience nostalgique mais captivante. Ce projet sera un hommage au jeu original, célébrant son esthétique iconique et son gameplay simple mais addictif.
 <table>
   <tr>
@@ -52,10 +52,15 @@ Pour le jeu que nous allons créer, nous nous inspirons du célèbre jeu vidéo 
 </table>
 
 
-# Jeux
+## 4: Outils et technologies du jeu
+Pour recréer notre clone de *Space Invaders* aussi fidèlement que possible, nous utiliserons des outils et des programmes modernes mais puissants. Visual Studio Code sera notre environnement de développement principal, offrant une interface robuste et adaptée aux projets complexes. Nous utiliserons également Phaser, un framework JavaScript spécialisé dans le développement de jeux 2D, qui nous permettra de simuler le style et le gameplay du jeu original. Grâce à ces outils, nous serons en mesure de recréer une expérience immersive et rétro qui rend hommage au classique intemporel.
 
-L’aspect le plus visible de notre projet sera le ou les jeux auxquels chaque visiteur pourra jouer grâce à notre installation unique. Nous souhaitons recréer une ambiance qui ne semblerait pas déplacée dans une salle d’arcade d’il y a 30 ans, c’est pourquoi la nostalgie sera un élément clé. Nous recréerons des jeux similaires aux classiques tels que Space Invaders et Super Mario, en les développant à l’aide d’outils web comme Java, afin de capturer l’expérience de jeu typique d’une arcade, tout en intégrant les avancées technologiques de notre époque.
-
+<table>
+  <tr>
+    <td><img src="./3.jpg" alt="Visual Studio Code Logo" width="300"></td>
+    <td><img src="./8.webp" alt="Phaser Tool Logo" width="300"></td>
+  </tr>
+</table>
 
 
 
