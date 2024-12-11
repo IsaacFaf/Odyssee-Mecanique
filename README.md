@@ -4,10 +4,22 @@ Odyssée Mécanique revisite les classiques des jeux vidéo des années 70 et 80
 Au lieu de jouer confortablement assis avec un joystick, les joueurs interagiront physiquement avec un "trigger" qu'ils devront déplacer de gauche à droite, imitant le mouvement de jeu classique de manière dynamique. Ce trigger peut être un capteur ou un dispositif à manœuvrer avec le corps, activant une série d'animations ou de mécaniques de jeu. Par exemple, pour Space Invaders, le joueur devra se déplacer sur une plateforme et "tirer" en bougeant son corps de manière précise, simulant l’action d’abattre les vaisseaux ennemis.
 
 
+# Ce qui différencie des jeux d'origines
+Imaginez Space Invaders en 3D et à la première personne. Plutôt que de voir l’action de côté, vous êtes dans le vaisseau, affrontant les vagues d’extraterrestres directement. La vue en 3D apporte une nouvelle dimension au gameplay, avec des ennemis venant de différentes directions et un besoin de viser tout en se déplaçant.
+
+Le cœur du jeu reste intact : détruire les envahisseurs tout en esquivant leurs tirs. Les graphismes rétro et les sons iconiques rappellent l’original, mais l’immersion et la perspective sont modernisées pour offrir une expérience plus dynamique tout en préservant la nostalgie du classique.
+
+Et ce n’est qu’un début. Nous allons recréer d’autres jeux emblématiques, en réinventant leurs mécaniques pour les adapter à une expérience nouvelle et immersive, tout en conservant l’esprit et la magie des classiques. Un univers où la nostalgie rencontre l’innovation.
+
+# Thème (Résonance)
+  Notre projet prendra part à la thématique au niveau émotionnelle. Odyssée Mécanique puisera dans la nostalgie des années 70 et 80, cette époque où les arcades étaient des lieux emblématiques et de plaisir collectif. Ce jeu visera à recréé une résonance émotielle chez les joueurs, qui pourront se reconnecter à une époque révolue, tout en expérimentant le nouveau type de jeu. Elle tiendra aussi une résonance des souvenirs de jeunesse chez eux qui ont grandi avec ces jeux.
+
+  Elle aura une part également à la résonance au niveau physique! Les bandes lumineuses rétro du jeu et les sons d'accompagnement seront un moyen visuel et auditif de créé une résonances entre le monde physique et virtuel!
+
+  Un autre point que notre projet à en commun envers la thématique principale est la résonance Sociale et Communautaire. Nous voulons créé un atmostphère compétitif mais aussi coopératif. Il sera facile aux publiques de se faire compétition ou de s'encourager à battre un ancien record!. Les jeux d'arcades étaient un lieux de rassemblement et de compétition sociale. On aimerait réactivé cet résonance communautaire!
 
 
-
-
+![resonance](medias/resonance.png)
 # Moodboard
 
 Pour créer une ambiance rétro, nous allons décorer non seulement notre design web avec ces bandes colorées et circulaires emblématiques des années 60 et 70, mais également nos éléments physiques, comme la table des contrôleurs. Ces motifs apporteront une touche vintage cohérente et immersive.
@@ -347,4 +359,8 @@ Le produit minimum viable de notre projet consistera d’au moins avoir un jeu p
  
 
 	
-	https://isaacfaf.github.io/planification/#/ 
+https://isaacfaf.github.io/planification/#/ 
+https://wallpaperaccess.com/space-invaders
+https://realitypod.com/story/this-small-wireless-button-definitely-offers-the-complete-smart-home-package/ 
+https://stock.adobe.com/ca/images/retro-70s-geometric-posters-vintage-rainbow-color-lines-print-groovy-striped-design-poster-abstract-1970s-colorful-background-vector-set-minimalistic-old-fashioned-cover-for-artwork/475749391
+https://medium.com/@zepboo/red%C3%A9couvrir-lattrait-du-design-d-int%C3%A9rieur-des-ann%C3%A9es-70-un-guide-d56cea3a5b19
