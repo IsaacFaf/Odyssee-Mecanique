@@ -111,7 +111,7 @@ shéma_installation.png
 # Branchement
 <table>
   <tr>
-    <td><img src="./simulation.png" alt="Visual Studio Code Logo" width="800"></td>
+    <td><img src="./branchement.png" alt="Visual Studio Code Logo" width="800"></td>
   </tr>
 </table>
 # Logiciels/Réseaux
