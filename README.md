@@ -107,7 +107,6 @@ graph TD;
 
 # Synoptique
 ![visuel](shéma_installation.png)
-shéma_installation.png
 # Branchement
 <table>
   <tr>
