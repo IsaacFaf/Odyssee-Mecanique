@@ -100,13 +100,10 @@ graph TD;
 # Simulation
 <table>
   <tr>
-    <td><img src="./simulation.png" alt="Visual Studio Code Logo" width="300"></td>
-    <td><img src="./sim2.png" alt="Phaser Tool Logo" width="300"></td>
+    <td><img src="./simulation.png" alt="Visual Studio Code Logo" width="800"></td>
+    <td><img src="./sim2.png" alt="Phaser Tool Logo" width="800"></td>
   </tr>
 </table>
-![visuel](simulation.png)
-![visuel](sim2.png)
-
 
 # Synoptique
 ![visuel](shéma_installation.png)
