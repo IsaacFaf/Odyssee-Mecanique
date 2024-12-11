@@ -153,7 +153,7 @@ Studio T.I.M Montmorency
  
 ### Rail Linéaire
 Pour déplacer le trigger de gauche à droite
-![Alu](medias/linear.PNG)
+![Alu](medias/rail-lineair.png)
 [Documentation](https://www.amazon.fr/OrangeA-HSR15X1500-Rectifieuse-limpression-industrielles/dp/B06VVXT19J)
  
 ### Etude Projecteur
@@ -163,7 +163,7 @@ Servira à projeter l'expérience sur une étandue élevé. Placé pas trop loin
 [DOCUMENTATION](https://www.bureauengros.com/products/3094403-fr-optoma-technology-4k400stx-projecteur-dlp-4k-uhd-a-courte-focale-4-000-lumens)
  
 ### Etude Kiosque
-![Kiosque](medias/kiosque.png)
+![Kiosque](medias/box.png)
  
 Servira à l'interactivité. C'est l'endroit ou le joueur pourra intéragir avec l'expérience en tant que telle. Ce kiosque sera aménagé avec tout les matériels pour le bon fonctionnement de l'expérience.
 ### American DJ
@@ -177,18 +177,18 @@ Lumière directement visé sur le kiosque tout en évitant tout intensité trop 
  
 Batton avec bouton pour tirer. il est une visualisation de ce que je veux reproduire. Le batton sera toutefois fait à la main et ressemblera bien plus à ça :
  
-![ideaTrigger](medias/ideal.png)
+![ideaTrigger](medias/setup-bluetooth.png)
 #### Etude TOF
 ![TimeOfFlight](medias/timeOfFlight.png)
  
 Le "Time of Flight" de M5Stack sera utilisé pour détecter l'emplacement du levier.
  
 [DOCUMENTATION](https://eu.mouser.com/new/m5stack/m5stack-tof-distance-sensor/)
-#### Etude Key Unit
-![bluetoothButton](medias/m5stackButtonBluetooth.png)
+#### Etude Button bluetooth
+![bluetoothButton](medias/wireless-button.jpg)
  
 Placé directement sur le triggerstick, il sera le bouton bluetooth qui communiquera avec Arduino. À l'action, il enverra un message comme expliqué dans le synoptique. [OSC]
-[DOCUMENTATION](https://www.tinytronics.nl/en/switches/manual-switches/push-buttons-and-switches/m5stack-button-unit)
+[DOCUMENTATION](https://realitypod.com/story/this-small-wireless-button-definitely-offers-the-complete-smart-home-package/)
  
 ### Etude Speaker
 ![Speaker](medias/genelec.png)
@@ -222,7 +222,7 @@ Le TriggerStick aura un feutre dessus pour éviter tout blessure au main d'un co
 Étant donné que l'installation est dans le studio, le stock peut être caché dans le kiosque. Les prises dans le sol permettent de cacher les fils et pour ceux du projecteur et et speakers au plafond, il sera simple de placer les fils pour qu'ils longent un mur inutilisé.
  
 ![Visualisation câblage](medias/visualisation.PNG)
-# Médiagraphie
+
  
  
 
@@ -243,7 +243,7 @@ Le produit minimum viable de notre projet consistera d’au moins avoir un jeu p
 
     S# = Quel semaine.
 ## Matrice de risque
-  ![Matrice](image.png)
+![Matrice](image.png)
 ## Description des risques
 ### R1 : Manque de temps pour compléter le jeu
     Probabilité : 2
@@ -343,7 +343,7 @@ Le produit minimum viable de notre projet consistera d’au moins avoir un jeu p
 
 
 
-
+# Médiagraphie
  
 
 	
